@@ -1,0 +1,25 @@
+{
+  "name": "challenge_web_teknos",
+  "version": "1.0.0",
+  "description": "Es un gusto que puedas aplicar para unirte a nuestro equipo de desarrollo.",
+  "main": "app.js",
+  "bin": {
+    "challenge_web_teknos": "www.js"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gogs.teknosgroup.com/Ingreso_Web/Challenge_Web_Teknos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
